@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  margin: 50px;
+}
+
+input {
+  padding: 10px;
+  margin-right: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 10px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button#delete {
+  padding: 10px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #dc3545;
+}
+
+button:hover {
+  background-color: #218838;
+}
+
+div {
+  margin: 10px 0;
+}
+
+span {
+  margin-right: 10px;
+}
